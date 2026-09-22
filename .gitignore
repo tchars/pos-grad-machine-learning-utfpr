@@ -1,0 +1,51 @@
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+**/*.so
+
+# Ambientes virtuais
+**/.venv/
+**/venv/
+**/env/
+**/env.bak/
+**/venv.bak/
+
+# Ferramentas e caches
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+**/.coverage
+**/.coverage.*
+**/htmlcov/
+**/.tox/
+**/.nox/
+**/.ipynb_checkpoints/
+
+# Empacotamento e distribuicao
+**/build/
+**/dist/
+**/*.egg-info/
+**/.eggs/
+
+# Configuracoes locais
+**/.python-version
+**/*.log
+
+# macOS
+.DS_Store
+**/.DS_Store
+.AppleDouble
+**/.AppleDouble
+.LSOverride
+**/._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Arquivos de editores
+**/.vscode/
+**/.idea/
