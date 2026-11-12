@@ -1,0 +1,3202 @@
+[
+  {
+    "nome": "Ana Paula Ribeiro",
+    "email": "ana_paula_ribeiro001@example.com",
+    "data_abertura": "2026-07-01T15:11:00",
+    "status_chamado": "aberto",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-01T15:11:00",
+        "mensagem": "Não consigo entrar na minha conta; aparece uma mensagem de senha inválida."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-01T15:23:00",
+        "mensagem": "Vou verificar as opções de acesso. Você já tentou redefinir a senha?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-01T15:45:00",
+        "mensagem": "Tentei, mas ainda não recebi o e-mail de recuperação."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-01T16:09:00",
+        "mensagem": "Verificamos o envio e orientamos a conferir a pasta de spam e solicitar um novo link."
+      }
+    ]
+  },
+  {
+    "nome": "Bruno Martins",
+    "email": "bruno_martins002@example.com",
+    "data_abertura": "2026-07-14T11:22:00",
+    "status_chamado": "em andamento",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-14T11:22:00",
+        "mensagem": "Identifiquei duas cobranças referentes à mesma assinatura."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-14T11:34:00",
+        "mensagem": "Pode confirmar o mês em que as duas cobranças apareceram?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-14T11:56:00",
+        "mensagem": "As duas foram lançadas neste mês."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-14T12:20:00",
+        "mensagem": "Encaminhamos a duplicidade para análise do setor financeiro."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-14T13:22:00",
+        "mensagem": "O chamado permanece em análise. Avisaremos assim que houver uma atualização."
+      }
+    ]
+  },
+  {
+    "nome": "Carla Souza",
+    "email": "carla_souza003@example.com",
+    "data_abertura": "2026-07-27T18:33:00",
+    "status_chamado": "aguardando cliente",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-27T18:33:00",
+        "mensagem": "Meu pedido está atrasado e o rastreamento não é atualizado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-27T18:45:00",
+        "mensagem": "Vou consultar a transportadora. Você consegue confirmar o número do pedido?"
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-27T19:33:00",
+        "mensagem": "Aguardamos seu retorno com as informações solicitadas para dar continuidade ao atendimento."
+      }
+    ]
+  },
+  {
+    "nome": "Diego Ferreira",
+    "email": "diego_ferreira004@example.com",
+    "data_abertura": "2026-08-09T14:44:00",
+    "status_chamado": "resolvido",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-09T14:44:00",
+        "mensagem": "O aplicativo fecha sozinho quando tento abrir a área de pedidos."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-09T14:56:00",
+        "mensagem": "Qual versão do aplicativo e sistema operacional você utiliza?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-09T15:18:00",
+        "mensagem": "Estou usando a versão mais recente no Android."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-09T15:42:00",
+        "mensagem": "Registramos o erro e encaminhamos as informações para a equipe técnica."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-09T17:44:00",
+        "mensagem": "A solução foi aplicada e o chamado foi marcado como resolvido. Pode confirmar se está tudo certo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-09T18:44:00",
+        "mensagem": "Sim, agora está funcionando. Obrigado pelo atendimento!"
+      }
+    ]
+  },
+  {
+    "nome": "Eduarda Lima",
+    "email": "eduarda_lima005@example.com",
+    "data_abertura": "2026-08-22T10:55:00",
+    "status_chamado": "fechado",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-22T10:55:00",
+        "mensagem": "Preciso atualizar o telefone vinculado ao meu cadastro."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-22T11:07:00",
+        "mensagem": "Podemos orientar a alteração pelo painel de perfil. Você consegue acessar a conta?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-22T11:29:00",
+        "mensagem": "Sim, consigo acessar normalmente."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-22T11:53:00",
+        "mensagem": "Enviamos o passo a passo de atualização cadastral."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-22T12:55:00",
+        "mensagem": "Consegui concluir o procedimento. Podem encerrar o chamado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-22T13:10:00",
+        "mensagem": "Chamado encerrado conforme sua confirmação. Obrigado pelo contato."
+      }
+    ]
+  },
+  {
+    "nome": "Felipe Costa",
+    "email": "felipe_costa006@example.com",
+    "data_abertura": "2026-09-04T17:06:00",
+    "status_chamado": "aberto",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-04T17:06:00",
+        "mensagem": "Gostaria de cancelar minha assinatura e entender a data final do acesso."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-04T17:18:00",
+        "mensagem": "Posso explicar o procedimento e confirmar o período vigente."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-04T17:40:00",
+        "mensagem": "Certo, quero evitar uma nova renovação."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-04T18:04:00",
+        "mensagem": "Orientamos o cancelamento antes da próxima renovação e o registro da confirmação."
+      }
+    ]
+  },
+  {
+    "nome": "Gabriela Almeida",
+    "email": "gabriela_almeida007@example.com",
+    "data_abertura": "2026-09-17T13:17:00",
+    "status_chamado": "em andamento",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-17T13:17:00",
+        "mensagem": "Solicitei um reembolso, mas ainda não recebi uma atualização."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-17T13:29:00",
+        "mensagem": "Você pode informar quando fez a solicitação?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-17T13:51:00",
+        "mensagem": "Fiz a solicitação há alguns dias pelo portal."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-17T14:15:00",
+        "mensagem": "Localizamos o pedido e o encaminhamos para acompanhamento financeiro."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-17T15:17:00",
+        "mensagem": "O chamado permanece em análise. Avisaremos assim que houver uma atualização."
+      }
+    ]
+  },
+  {
+    "nome": "Henrique Rodrigues",
+    "email": "henrique_rodrigues008@example.com",
+    "data_abertura": "2026-09-30T09:28:00",
+    "status_chamado": "aguardando cliente",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-30T09:28:00",
+        "mensagem": "Não consigo concluir o pagamento com meu cartão."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-30T09:40:00",
+        "mensagem": "O sistema apresenta algum código ou mensagem de erro?"
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-30T10:28:00",
+        "mensagem": "Aguardamos seu retorno com as informações solicitadas para dar continuidade ao atendimento."
+      }
+    ]
+  },
+  {
+    "nome": "Isabela Gomes",
+    "email": "isabela_gomes009@example.com",
+    "data_abertura": "2026-10-13T16:39:00",
+    "status_chamado": "resolvido",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-13T16:39:00",
+        "mensagem": "Preciso da nota fiscal de uma compra recente."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-13T16:51:00",
+        "mensagem": "Você consegue localizar o pedido na área de compras?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-13T17:13:00",
+        "mensagem": "Consigo, mas não encontro a opção de baixar a nota."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-13T17:37:00",
+        "mensagem": "Orientamos onde consultar a documentação e solicitamos a segunda via."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-13T19:39:00",
+        "mensagem": "A solução foi aplicada e o chamado foi marcado como resolvido. Pode confirmar se está tudo certo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-13T20:39:00",
+        "mensagem": "Sim, agora está funcionando. Obrigado pelo atendimento!"
+      }
+    ]
+  },
+  {
+    "nome": "João Pedro Barbosa",
+    "email": "joao_pedro_barbosa010@example.com",
+    "data_abertura": "2026-10-26T12:50:00",
+    "status_chamado": "fechado",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-26T12:50:00",
+        "mensagem": "O produto recebido está apresentando falhas no funcionamento."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-26T13:02:00",
+        "mensagem": "Pode descrever o defeito e informar quando começou?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-26T13:24:00",
+        "mensagem": "A falha apareceu no primeiro dia de uso."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-26T13:48:00",
+        "mensagem": "Abrimos a análise de garantia e informamos as próximas etapas."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-26T14:50:00",
+        "mensagem": "Consegui concluir o procedimento. Podem encerrar o chamado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-26T15:05:00",
+        "mensagem": "Chamado encerrado conforme sua confirmação. Obrigado pelo contato."
+      }
+    ]
+  },
+  {
+    "nome": "Juliana Carvalho",
+    "email": "juliana_carvalho011@example.com",
+    "data_abertura": "2026-11-08T08:01:00",
+    "status_chamado": "aberto",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-11-08T08:01:00",
+        "mensagem": "Recebi um tamanho diferente do que selecionei."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-11-08T08:13:00",
+        "mensagem": "Vamos conferir a solicitação de troca. A embalagem ainda está disponível?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-11-08T08:35:00",
+        "mensagem": "Sim, guardei a embalagem e a etiqueta."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-11-08T08:59:00",
+        "mensagem": "Enviamos as instruções para iniciar a troca."
+      }
+    ]
+  },
+  {
+    "nome": "Kaique Oliveira",
+    "email": "kaique_oliveira012@example.com",
+    "data_abertura": "2026-07-10T15:12:00",
+    "status_chamado": "em andamento",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-10T15:12:00",
+        "mensagem": "Não consigo utilizar a plataforma desde esta manhã."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-10T15:24:00",
+        "mensagem": "Estamos verificando se há alguma instabilidade. O problema ocorre em mais de um dispositivo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-10T15:46:00",
+        "mensagem": "Sim, tentei no computador e no celular."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-10T16:10:00",
+        "mensagem": "A ocorrência foi encaminhada para investigação de disponibilidade."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-10T17:12:00",
+        "mensagem": "O chamado permanece em análise. Avisaremos assim que houver uma atualização."
+      }
+    ]
+  },
+  {
+    "nome": "Larissa Mendes",
+    "email": "larissa_mendes013@example.com",
+    "data_abertura": "2026-07-23T11:23:00",
+    "status_chamado": "aguardando cliente",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-23T11:23:00",
+        "mensagem": "Meu colega não consegue visualizar os relatórios da equipe."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-23T11:35:00",
+        "mensagem": "Você sabe qual perfil de acesso está atribuído a ele?"
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-23T12:23:00",
+        "mensagem": "Aguardamos seu retorno com as informações solicitadas para dar continuidade ao atendimento."
+      }
+    ]
+  },
+  {
+    "nome": "Lucas Pereira",
+    "email": "lucas_pereira014@example.com",
+    "data_abertura": "2026-08-05T18:34:00",
+    "status_chamado": "resolvido",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-05T18:34:00",
+        "mensagem": "A exportação do relatório em CSV não está funcionando."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-05T18:46:00",
+        "mensagem": "O erro ocorre em todos os relatórios ou em um específico?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-05T19:08:00",
+        "mensagem": "Acontece apenas no relatório mensal."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-05T19:32:00",
+        "mensagem": "Registramos o cenário e abrimos uma verificação da exportação."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-05T21:34:00",
+        "mensagem": "A solução foi aplicada e o chamado foi marcado como resolvido. Pode confirmar se está tudo certo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-05T22:34:00",
+        "mensagem": "Sim, agora está funcionando. Obrigado pelo atendimento!"
+      }
+    ]
+  },
+  {
+    "nome": "Mariana Nascimento",
+    "email": "mariana_nascimento015@example.com",
+    "data_abertura": "2026-08-18T14:45:00",
+    "status_chamado": "fechado",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-18T14:45:00",
+        "mensagem": "Não estou recebendo notificações sobre atualizações dos meus pedidos."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-18T14:57:00",
+        "mensagem": "Você já conferiu as preferências de notificação no aplicativo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-18T15:19:00",
+        "mensagem": "As notificações estão ativadas."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-18T15:43:00",
+        "mensagem": "Solicitamos a revisão do cadastro e das permissões do dispositivo."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-18T16:45:00",
+        "mensagem": "Consegui concluir o procedimento. Podem encerrar o chamado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-18T17:00:00",
+        "mensagem": "Chamado encerrado conforme sua confirmação. Obrigado pelo contato."
+      }
+    ]
+  },
+  {
+    "nome": "Matheus Santos",
+    "email": "matheus_santos016@example.com",
+    "data_abertura": "2026-08-31T10:56:00",
+    "status_chamado": "aberto",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-31T10:56:00",
+        "mensagem": "Preciso corrigir o endereço de entrega de um pedido."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-31T11:08:00",
+        "mensagem": "Vou verificar se a alteração ainda é possível. O pedido já foi enviado?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-31T11:30:00",
+        "mensagem": "Ainda consta como em preparação."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-31T11:54:00",
+        "mensagem": "Registramos a solicitação de alteração do endereço para validação."
+      }
+    ]
+  },
+  {
+    "nome": "Natália Rocha",
+    "email": "natalia_rocha017@example.com",
+    "data_abertura": "2026-09-13T17:07:00",
+    "status_chamado": "em andamento",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-13T17:07:00",
+        "mensagem": "Meu cupom de desconto aparece como inválido no checkout."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-13T17:19:00",
+        "mensagem": "Pode informar se a oferta ainda está dentro da validade?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-13T17:41:00",
+        "mensagem": "Sim, a campanha termina amanhã."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-13T18:05:00",
+        "mensagem": "Solicitamos uma verificação das regras de elegibilidade do cupom."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-13T19:07:00",
+        "mensagem": "O chamado permanece em análise. Avisaremos assim que houver uma atualização."
+      }
+    ]
+  },
+  {
+    "nome": "Otávio Moreira",
+    "email": "otavio_moreira018@example.com",
+    "data_abertura": "2026-09-26T13:18:00",
+    "status_chamado": "aguardando cliente",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-26T13:18:00",
+        "mensagem": "A integração começou a retornar erro 401 nas requisições."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-26T13:30:00",
+        "mensagem": "Você verificou a validade do token de autenticação?"
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-26T14:18:00",
+        "mensagem": "Aguardamos seu retorno com as informações solicitadas para dar continuidade ao atendimento."
+      }
+    ]
+  },
+  {
+    "nome": "Patrícia Cardoso",
+    "email": "patricia_cardoso019@example.com",
+    "data_abertura": "2026-10-09T09:29:00",
+    "status_chamado": "resolvido",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-09T09:29:00",
+        "mensagem": "As páginas estão demorando muito para carregar."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-09T09:41:00",
+        "mensagem": "Isso ocorre em todas as páginas ou em uma área específica?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-09T10:03:00",
+        "mensagem": "Principalmente no painel inicial."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-09T10:27:00",
+        "mensagem": "Registramos o comportamento para análise de desempenho."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-09T12:29:00",
+        "mensagem": "A solução foi aplicada e o chamado foi marcado como resolvido. Pode confirmar se está tudo certo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-09T13:29:00",
+        "mensagem": "Sim, agora está funcionando. Obrigado pelo atendimento!"
+      }
+    ]
+  },
+  {
+    "nome": "Rafael Teixeira",
+    "email": "rafael_teixeira020@example.com",
+    "data_abertura": "2026-10-22T16:40:00",
+    "status_chamado": "fechado",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-22T16:40:00",
+        "mensagem": "Não consigo remarcar um horário pelo portal."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-22T16:52:00",
+        "mensagem": "A opção de reagendamento aparece desabilitada?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-22T17:14:00",
+        "mensagem": "Sim, ela está cinza para o meu agendamento."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-22T17:38:00",
+        "mensagem": "Solicitamos a análise das regras de reagendamento para esse serviço."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-22T18:40:00",
+        "mensagem": "Consegui concluir o procedimento. Podem encerrar o chamado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-22T18:55:00",
+        "mensagem": "Chamado encerrado conforme sua confirmação. Obrigado pelo contato."
+      }
+    ]
+  },
+  {
+    "nome": "Renata Azevedo",
+    "email": "renata_azevedo021@example.com",
+    "data_abertura": "2026-11-04T12:51:00",
+    "status_chamado": "aberto",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-11-04T12:51:00",
+        "mensagem": "Não consigo entrar na minha conta; aparece uma mensagem de senha inválida."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-11-04T13:03:00",
+        "mensagem": "Vou verificar as opções de acesso. Você já tentou redefinir a senha?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-11-04T13:25:00",
+        "mensagem": "Tentei, mas ainda não recebi o e-mail de recuperação."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-11-04T13:49:00",
+        "mensagem": "Verificamos o envio e orientamos a conferir a pasta de spam e solicitar um novo link."
+      }
+    ]
+  },
+  {
+    "nome": "Ricardo Dias",
+    "email": "ricardo_dias022@example.com",
+    "data_abertura": "2026-07-06T08:02:00",
+    "status_chamado": "em andamento",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-06T08:02:00",
+        "mensagem": "Identifiquei duas cobranças referentes à mesma assinatura."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-06T08:14:00",
+        "mensagem": "Pode confirmar o mês em que as duas cobranças apareceram?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-06T08:36:00",
+        "mensagem": "As duas foram lançadas neste mês."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-06T09:00:00",
+        "mensagem": "Encaminhamos a duplicidade para análise do setor financeiro."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-06T10:02:00",
+        "mensagem": "O chamado permanece em análise. Avisaremos assim que houver uma atualização."
+      }
+    ]
+  },
+  {
+    "nome": "Sabrina Fernandes",
+    "email": "sabrina_fernandes023@example.com",
+    "data_abertura": "2026-07-19T15:13:00",
+    "status_chamado": "aguardando cliente",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-19T15:13:00",
+        "mensagem": "Meu pedido está atrasado e o rastreamento não é atualizado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-19T15:25:00",
+        "mensagem": "Vou consultar a transportadora. Você consegue confirmar o número do pedido?"
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-19T16:13:00",
+        "mensagem": "Aguardamos seu retorno com as informações solicitadas para dar continuidade ao atendimento."
+      }
+    ]
+  },
+  {
+    "nome": "Samuel Castro",
+    "email": "samuel_castro024@example.com",
+    "data_abertura": "2026-08-01T11:24:00",
+    "status_chamado": "resolvido",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-01T11:24:00",
+        "mensagem": "O aplicativo fecha sozinho quando tento abrir a área de pedidos."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-01T11:36:00",
+        "mensagem": "Qual versão do aplicativo e sistema operacional você utiliza?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-01T11:58:00",
+        "mensagem": "Estou usando a versão mais recente no Android."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-01T12:22:00",
+        "mensagem": "Registramos o erro e encaminhamos as informações para a equipe técnica."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-01T14:24:00",
+        "mensagem": "A solução foi aplicada e o chamado foi marcado como resolvido. Pode confirmar se está tudo certo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-01T15:24:00",
+        "mensagem": "Sim, agora está funcionando. Obrigado pelo atendimento!"
+      }
+    ]
+  },
+  {
+    "nome": "Tatiane Monteiro",
+    "email": "tatiane_monteiro025@example.com",
+    "data_abertura": "2026-08-14T18:35:00",
+    "status_chamado": "fechado",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-14T18:35:00",
+        "mensagem": "Preciso atualizar o telefone vinculado ao meu cadastro."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-14T18:47:00",
+        "mensagem": "Podemos orientar a alteração pelo painel de perfil. Você consegue acessar a conta?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-14T19:09:00",
+        "mensagem": "Sim, consigo acessar normalmente."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-14T19:33:00",
+        "mensagem": "Enviamos o passo a passo de atualização cadastral."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-14T20:35:00",
+        "mensagem": "Consegui concluir o procedimento. Podem encerrar o chamado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-14T20:50:00",
+        "mensagem": "Chamado encerrado conforme sua confirmação. Obrigado pelo contato."
+      }
+    ]
+  },
+  {
+    "nome": "Thiago Araújo",
+    "email": "thiago_araujo026@example.com",
+    "data_abertura": "2026-08-27T14:46:00",
+    "status_chamado": "aberto",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-27T14:46:00",
+        "mensagem": "Gostaria de cancelar minha assinatura e entender a data final do acesso."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-27T14:58:00",
+        "mensagem": "Posso explicar o procedimento e confirmar o período vigente."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-27T15:20:00",
+        "mensagem": "Certo, quero evitar uma nova renovação."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-27T15:44:00",
+        "mensagem": "Orientamos o cancelamento antes da próxima renovação e o registro da confirmação."
+      }
+    ]
+  },
+  {
+    "nome": "Vanessa Batista",
+    "email": "vanessa_batista027@example.com",
+    "data_abertura": "2026-09-09T10:57:00",
+    "status_chamado": "em andamento",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-09T10:57:00",
+        "mensagem": "Solicitei um reembolso, mas ainda não recebi uma atualização."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-09T11:09:00",
+        "mensagem": "Você pode informar quando fez a solicitação?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-09T11:31:00",
+        "mensagem": "Fiz a solicitação há alguns dias pelo portal."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-09T11:55:00",
+        "mensagem": "Localizamos o pedido e o encaminhamos para acompanhamento financeiro."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-09T12:57:00",
+        "mensagem": "O chamado permanece em análise. Avisaremos assim que houver uma atualização."
+      }
+    ]
+  },
+  {
+    "nome": "Vinícius Freitas",
+    "email": "vinicius_freitas028@example.com",
+    "data_abertura": "2026-09-22T17:08:00",
+    "status_chamado": "aguardando cliente",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-22T17:08:00",
+        "mensagem": "Não consigo concluir o pagamento com meu cartão."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-22T17:20:00",
+        "mensagem": "O sistema apresenta algum código ou mensagem de erro?"
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-22T18:08:00",
+        "mensagem": "Aguardamos seu retorno com as informações solicitadas para dar continuidade ao atendimento."
+      }
+    ]
+  },
+  {
+    "nome": "Vitória Lopes",
+    "email": "vitoria_lopes029@example.com",
+    "data_abertura": "2026-10-05T13:19:00",
+    "status_chamado": "resolvido",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-05T13:19:00",
+        "mensagem": "Preciso da nota fiscal de uma compra recente."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-05T13:31:00",
+        "mensagem": "Você consegue localizar o pedido na área de compras?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-05T13:53:00",
+        "mensagem": "Consigo, mas não encontro a opção de baixar a nota."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-05T14:17:00",
+        "mensagem": "Orientamos onde consultar a documentação e solicitamos a segunda via."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-05T16:19:00",
+        "mensagem": "A solução foi aplicada e o chamado foi marcado como resolvido. Pode confirmar se está tudo certo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-05T17:19:00",
+        "mensagem": "Sim, agora está funcionando. Obrigado pelo atendimento!"
+      }
+    ]
+  },
+  {
+    "nome": "Wesley Moura",
+    "email": "wesley_moura030@example.com",
+    "data_abertura": "2026-10-18T09:30:00",
+    "status_chamado": "fechado",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-18T09:30:00",
+        "mensagem": "O produto recebido está apresentando falhas no funcionamento."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-18T09:42:00",
+        "mensagem": "Pode descrever o defeito e informar quando começou?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-18T10:04:00",
+        "mensagem": "A falha apareceu no primeiro dia de uso."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-18T10:28:00",
+        "mensagem": "Abrimos a análise de garantia e informamos as próximas etapas."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-18T11:30:00",
+        "mensagem": "Consegui concluir o procedimento. Podem encerrar o chamado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-18T11:45:00",
+        "mensagem": "Chamado encerrado conforme sua confirmação. Obrigado pelo contato."
+      }
+    ]
+  },
+  {
+    "nome": "Aline Correia",
+    "email": "aline_correia031@example.com",
+    "data_abertura": "2026-10-31T16:41:00",
+    "status_chamado": "aberto",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-31T16:41:00",
+        "mensagem": "Recebi um tamanho diferente do que selecionei."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-31T16:53:00",
+        "mensagem": "Vamos conferir a solicitação de troca. A embalagem ainda está disponível?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-31T17:15:00",
+        "mensagem": "Sim, guardei a embalagem e a etiqueta."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-31T17:39:00",
+        "mensagem": "Enviamos as instruções para iniciar a troca."
+      }
+    ]
+  },
+  {
+    "nome": "André Luiz Cunha",
+    "email": "andre_luiz_cunha032@example.com",
+    "data_abertura": "2026-07-02T12:52:00",
+    "status_chamado": "em andamento",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-02T12:52:00",
+        "mensagem": "Não consigo utilizar a plataforma desde esta manhã."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-02T13:04:00",
+        "mensagem": "Estamos verificando se há alguma instabilidade. O problema ocorre em mais de um dispositivo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-02T13:26:00",
+        "mensagem": "Sim, tentei no computador e no celular."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-02T13:50:00",
+        "mensagem": "A ocorrência foi encaminhada para investigação de disponibilidade."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-02T14:52:00",
+        "mensagem": "O chamado permanece em análise. Avisaremos assim que houver uma atualização."
+      }
+    ]
+  },
+  {
+    "nome": "Beatriz Campos",
+    "email": "beatriz_campos033@example.com",
+    "data_abertura": "2026-07-15T08:03:00",
+    "status_chamado": "aguardando cliente",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-15T08:03:00",
+        "mensagem": "Meu colega não consegue visualizar os relatórios da equipe."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-15T08:15:00",
+        "mensagem": "Você sabe qual perfil de acesso está atribuído a ele?"
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-15T09:03:00",
+        "mensagem": "Aguardamos seu retorno com as informações solicitadas para dar continuidade ao atendimento."
+      }
+    ]
+  },
+  {
+    "nome": "Caio Henrique Pinto",
+    "email": "caio_henrique_pinto034@example.com",
+    "data_abertura": "2026-07-28T15:14:00",
+    "status_chamado": "resolvido",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-28T15:14:00",
+        "mensagem": "A exportação do relatório em CSV não está funcionando."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-28T15:26:00",
+        "mensagem": "O erro ocorre em todos os relatórios ou em um específico?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-28T15:48:00",
+        "mensagem": "Acontece apenas no relatório mensal."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-28T16:12:00",
+        "mensagem": "Registramos o cenário e abrimos uma verificação da exportação."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-28T18:14:00",
+        "mensagem": "A solução foi aplicada e o chamado foi marcado como resolvido. Pode confirmar se está tudo certo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-28T19:14:00",
+        "mensagem": "Sim, agora está funcionando. Obrigado pelo atendimento!"
+      }
+    ]
+  },
+  {
+    "nome": "Camila Vieira",
+    "email": "camila_vieira035@example.com",
+    "data_abertura": "2026-08-10T11:25:00",
+    "status_chamado": "fechado",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-10T11:25:00",
+        "mensagem": "Não estou recebendo notificações sobre atualizações dos meus pedidos."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-10T11:37:00",
+        "mensagem": "Você já conferiu as preferências de notificação no aplicativo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-10T11:59:00",
+        "mensagem": "As notificações estão ativadas."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-10T12:23:00",
+        "mensagem": "Solicitamos a revisão do cadastro e das permissões do dispositivo."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-10T13:25:00",
+        "mensagem": "Consegui concluir o procedimento. Podem encerrar o chamado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-10T13:40:00",
+        "mensagem": "Chamado encerrado conforme sua confirmação. Obrigado pelo contato."
+      }
+    ]
+  },
+  {
+    "nome": "Daniel Farias",
+    "email": "daniel_farias036@example.com",
+    "data_abertura": "2026-08-23T18:36:00",
+    "status_chamado": "aberto",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-23T18:36:00",
+        "mensagem": "Preciso corrigir o endereço de entrega de um pedido."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-23T18:48:00",
+        "mensagem": "Vou verificar se a alteração ainda é possível. O pedido já foi enviado?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-23T19:10:00",
+        "mensagem": "Ainda consta como em preparação."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-23T19:34:00",
+        "mensagem": "Registramos a solicitação de alteração do endereço para validação."
+      }
+    ]
+  },
+  {
+    "nome": "Débora Rezende",
+    "email": "debora_rezende037@example.com",
+    "data_abertura": "2026-09-05T14:47:00",
+    "status_chamado": "em andamento",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-05T14:47:00",
+        "mensagem": "Meu cupom de desconto aparece como inválido no checkout."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-05T14:59:00",
+        "mensagem": "Pode informar se a oferta ainda está dentro da validade?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-05T15:21:00",
+        "mensagem": "Sim, a campanha termina amanhã."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-05T15:45:00",
+        "mensagem": "Solicitamos uma verificação das regras de elegibilidade do cupom."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-05T16:47:00",
+        "mensagem": "O chamado permanece em análise. Avisaremos assim que houver uma atualização."
+      }
+    ]
+  },
+  {
+    "nome": "Elias Duarte",
+    "email": "elias_duarte038@example.com",
+    "data_abertura": "2026-09-18T10:58:00",
+    "status_chamado": "aguardando cliente",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-18T10:58:00",
+        "mensagem": "A integração começou a retornar erro 401 nas requisições."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-18T11:10:00",
+        "mensagem": "Você verificou a validade do token de autenticação?"
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-18T11:58:00",
+        "mensagem": "Aguardamos seu retorno com as informações solicitadas para dar continuidade ao atendimento."
+      }
+    ]
+  },
+  {
+    "nome": "Elisa Nogueira",
+    "email": "elisa_nogueira039@example.com",
+    "data_abertura": "2026-10-01T17:09:00",
+    "status_chamado": "resolvido",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-01T17:09:00",
+        "mensagem": "As páginas estão demorando muito para carregar."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-01T17:21:00",
+        "mensagem": "Isso ocorre em todas as páginas ou em uma área específica?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-01T17:43:00",
+        "mensagem": "Principalmente no painel inicial."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-01T18:07:00",
+        "mensagem": "Registramos o comportamento para análise de desempenho."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-01T20:09:00",
+        "mensagem": "A solução foi aplicada e o chamado foi marcado como resolvido. Pode confirmar se está tudo certo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-01T21:09:00",
+        "mensagem": "Sim, agora está funcionando. Obrigado pelo atendimento!"
+      }
+    ]
+  },
+  {
+    "nome": "Emerson Silveira",
+    "email": "emerson_silveira040@example.com",
+    "data_abertura": "2026-10-14T13:20:00",
+    "status_chamado": "fechado",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-14T13:20:00",
+        "mensagem": "Não consigo remarcar um horário pelo portal."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-14T13:32:00",
+        "mensagem": "A opção de reagendamento aparece desabilitada?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-14T13:54:00",
+        "mensagem": "Sim, ela está cinza para o meu agendamento."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-14T14:18:00",
+        "mensagem": "Solicitamos a análise das regras de reagendamento para esse serviço."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-14T15:20:00",
+        "mensagem": "Consegui concluir o procedimento. Podem encerrar o chamado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-14T15:35:00",
+        "mensagem": "Chamado encerrado conforme sua confirmação. Obrigado pelo contato."
+      }
+    ]
+  },
+  {
+    "nome": "Fernanda Borges",
+    "email": "fernanda_borges041@example.com",
+    "data_abertura": "2026-10-27T09:31:00",
+    "status_chamado": "aberto",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-27T09:31:00",
+        "mensagem": "Não consigo entrar na minha conta; aparece uma mensagem de senha inválida."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-27T09:43:00",
+        "mensagem": "Vou verificar as opções de acesso. Você já tentou redefinir a senha?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-27T10:05:00",
+        "mensagem": "Tentei, mas ainda não recebi o e-mail de recuperação."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-27T10:29:00",
+        "mensagem": "Verificamos o envio e orientamos a conferir a pasta de spam e solicitar um novo link."
+      }
+    ]
+  },
+  {
+    "nome": "Flávia Macedo",
+    "email": "flavia_macedo042@example.com",
+    "data_abertura": "2026-11-09T16:42:00",
+    "status_chamado": "em andamento",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-11-09T16:42:00",
+        "mensagem": "Identifiquei duas cobranças referentes à mesma assinatura."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-11-09T16:54:00",
+        "mensagem": "Pode confirmar o mês em que as duas cobranças apareceram?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-11-09T17:16:00",
+        "mensagem": "As duas foram lançadas neste mês."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-11-09T17:40:00",
+        "mensagem": "Encaminhamos a duplicidade para análise do setor financeiro."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-11-09T18:42:00",
+        "mensagem": "O chamado permanece em análise. Avisaremos assim que houver uma atualização."
+      }
+    ]
+  },
+  {
+    "nome": "Gustavo Peixoto",
+    "email": "gustavo_peixoto043@example.com",
+    "data_abertura": "2026-07-11T12:53:00",
+    "status_chamado": "aguardando cliente",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-11T12:53:00",
+        "mensagem": "Meu pedido está atrasado e o rastreamento não é atualizado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-11T13:05:00",
+        "mensagem": "Vou consultar a transportadora. Você consegue confirmar o número do pedido?"
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-11T13:53:00",
+        "mensagem": "Aguardamos seu retorno com as informações solicitadas para dar continuidade ao atendimento."
+      }
+    ]
+  },
+  {
+    "nome": "Helena Rios",
+    "email": "helena_rios044@example.com",
+    "data_abertura": "2026-07-24T08:04:00",
+    "status_chamado": "resolvido",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-24T08:04:00",
+        "mensagem": "O aplicativo fecha sozinho quando tento abrir a área de pedidos."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-24T08:16:00",
+        "mensagem": "Qual versão do aplicativo e sistema operacional você utiliza?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-24T08:38:00",
+        "mensagem": "Estou usando a versão mais recente no Android."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-24T09:02:00",
+        "mensagem": "Registramos o erro e encaminhamos as informações para a equipe técnica."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-24T11:04:00",
+        "mensagem": "A solução foi aplicada e o chamado foi marcado como resolvido. Pode confirmar se está tudo certo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-24T12:04:00",
+        "mensagem": "Sim, agora está funcionando. Obrigado pelo atendimento!"
+      }
+    ]
+  },
+  {
+    "nome": "Igor Cavalcante",
+    "email": "igor_cavalcante045@example.com",
+    "data_abertura": "2026-08-06T15:15:00",
+    "status_chamado": "fechado",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-06T15:15:00",
+        "mensagem": "Preciso atualizar o telefone vinculado ao meu cadastro."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-06T15:27:00",
+        "mensagem": "Podemos orientar a alteração pelo painel de perfil. Você consegue acessar a conta?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-06T15:49:00",
+        "mensagem": "Sim, consigo acessar normalmente."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-06T16:13:00",
+        "mensagem": "Enviamos o passo a passo de atualização cadastral."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-06T17:15:00",
+        "mensagem": "Consegui concluir o procedimento. Podem encerrar o chamado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-06T17:30:00",
+        "mensagem": "Chamado encerrado conforme sua confirmação. Obrigado pelo contato."
+      }
+    ]
+  },
+  {
+    "nome": "Jéssica Tavares",
+    "email": "jessica_tavares046@example.com",
+    "data_abertura": "2026-08-19T11:26:00",
+    "status_chamado": "aberto",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-19T11:26:00",
+        "mensagem": "Gostaria de cancelar minha assinatura e entender a data final do acesso."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-19T11:38:00",
+        "mensagem": "Posso explicar o procedimento e confirmar o período vigente."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-19T12:00:00",
+        "mensagem": "Certo, quero evitar uma nova renovação."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-19T12:24:00",
+        "mensagem": "Orientamos o cancelamento antes da próxima renovação e o registro da confirmação."
+      }
+    ]
+  },
+  {
+    "nome": "José Augusto Neves",
+    "email": "jose_augusto_neves047@example.com",
+    "data_abertura": "2026-09-01T18:37:00",
+    "status_chamado": "em andamento",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-01T18:37:00",
+        "mensagem": "Solicitei um reembolso, mas ainda não recebi uma atualização."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-01T18:49:00",
+        "mensagem": "Você pode informar quando fez a solicitação?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-01T19:11:00",
+        "mensagem": "Fiz a solicitação há alguns dias pelo portal."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-01T19:35:00",
+        "mensagem": "Localizamos o pedido e o encaminhamos para acompanhamento financeiro."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-01T20:37:00",
+        "mensagem": "O chamado permanece em análise. Avisaremos assim que houver uma atualização."
+      }
+    ]
+  },
+  {
+    "nome": "Laura Magalhães",
+    "email": "laura_magalhaes048@example.com",
+    "data_abertura": "2026-09-14T14:48:00",
+    "status_chamado": "aguardando cliente",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-14T14:48:00",
+        "mensagem": "Não consigo concluir o pagamento com meu cartão."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-14T15:00:00",
+        "mensagem": "O sistema apresenta algum código ou mensagem de erro?"
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-14T15:48:00",
+        "mensagem": "Aguardamos seu retorno com as informações solicitadas para dar continuidade ao atendimento."
+      }
+    ]
+  },
+  {
+    "nome": "Leonardo Pires",
+    "email": "leonardo_pires049@example.com",
+    "data_abertura": "2026-09-27T10:59:00",
+    "status_chamado": "resolvido",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-27T10:59:00",
+        "mensagem": "Preciso da nota fiscal de uma compra recente."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-27T11:11:00",
+        "mensagem": "Você consegue localizar o pedido na área de compras?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-27T11:33:00",
+        "mensagem": "Consigo, mas não encontro a opção de baixar a nota."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-27T11:57:00",
+        "mensagem": "Orientamos onde consultar a documentação e solicitamos a segunda via."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-27T13:59:00",
+        "mensagem": "A solução foi aplicada e o chamado foi marcado como resolvido. Pode confirmar se está tudo certo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-27T14:59:00",
+        "mensagem": "Sim, agora está funcionando. Obrigado pelo atendimento!"
+      }
+    ]
+  },
+  {
+    "nome": "Letícia Assis",
+    "email": "leticia_assis050@example.com",
+    "data_abertura": "2026-10-10T17:10:00",
+    "status_chamado": "fechado",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-10T17:10:00",
+        "mensagem": "O produto recebido está apresentando falhas no funcionamento."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-10T17:22:00",
+        "mensagem": "Pode descrever o defeito e informar quando começou?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-10T17:44:00",
+        "mensagem": "A falha apareceu no primeiro dia de uso."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-10T18:08:00",
+        "mensagem": "Abrimos a análise de garantia e informamos as próximas etapas."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-10T19:10:00",
+        "mensagem": "Consegui concluir o procedimento. Podem encerrar o chamado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-10T19:25:00",
+        "mensagem": "Chamado encerrado conforme sua confirmação. Obrigado pelo contato."
+      }
+    ]
+  },
+  {
+    "nome": "Lívia Miranda",
+    "email": "livia_miranda051@example.com",
+    "data_abertura": "2026-10-23T13:21:00",
+    "status_chamado": "aberto",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-23T13:21:00",
+        "mensagem": "Recebi um tamanho diferente do que selecionei."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-23T13:33:00",
+        "mensagem": "Vamos conferir a solicitação de troca. A embalagem ainda está disponível?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-23T13:55:00",
+        "mensagem": "Sim, guardei a embalagem e a etiqueta."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-23T14:19:00",
+        "mensagem": "Enviamos as instruções para iniciar a troca."
+      }
+    ]
+  },
+  {
+    "nome": "Luana Figueiredo",
+    "email": "luana_figueiredo052@example.com",
+    "data_abertura": "2026-11-05T09:32:00",
+    "status_chamado": "em andamento",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-11-05T09:32:00",
+        "mensagem": "Não consigo utilizar a plataforma desde esta manhã."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-11-05T09:44:00",
+        "mensagem": "Estamos verificando se há alguma instabilidade. O problema ocorre em mais de um dispositivo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-11-05T10:06:00",
+        "mensagem": "Sim, tentei no computador e no celular."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-11-05T10:30:00",
+        "mensagem": "A ocorrência foi encaminhada para investigação de disponibilidade."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-11-05T11:32:00",
+        "mensagem": "O chamado permanece em análise. Avisaremos assim que houver uma atualização."
+      }
+    ]
+  },
+  {
+    "nome": "Luiz Gustavo Prado",
+    "email": "luiz_gustavo_prado053@example.com",
+    "data_abertura": "2026-07-07T16:43:00",
+    "status_chamado": "aguardando cliente",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-07T16:43:00",
+        "mensagem": "Meu colega não consegue visualizar os relatórios da equipe."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-07T16:55:00",
+        "mensagem": "Você sabe qual perfil de acesso está atribuído a ele?"
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-07T17:43:00",
+        "mensagem": "Aguardamos seu retorno com as informações solicitadas para dar continuidade ao atendimento."
+      }
+    ]
+  },
+  {
+    "nome": "Marcela Matos",
+    "email": "marcela_matos054@example.com",
+    "data_abertura": "2026-07-20T12:54:00",
+    "status_chamado": "resolvido",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-20T12:54:00",
+        "mensagem": "A exportação do relatório em CSV não está funcionando."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-20T13:06:00",
+        "mensagem": "O erro ocorre em todos os relatórios ou em um específico?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-20T13:28:00",
+        "mensagem": "Acontece apenas no relatório mensal."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-20T13:52:00",
+        "mensagem": "Registramos o cenário e abrimos uma verificação da exportação."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-20T15:54:00",
+        "mensagem": "A solução foi aplicada e o chamado foi marcado como resolvido. Pode confirmar se está tudo certo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-20T16:54:00",
+        "mensagem": "Sim, agora está funcionando. Obrigado pelo atendimento!"
+      }
+    ]
+  },
+  {
+    "nome": "Márcio Coelho",
+    "email": "marcio_coelho055@example.com",
+    "data_abertura": "2026-08-02T08:05:00",
+    "status_chamado": "fechado",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-02T08:05:00",
+        "mensagem": "Não estou recebendo notificações sobre atualizações dos meus pedidos."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-02T08:17:00",
+        "mensagem": "Você já conferiu as preferências de notificação no aplicativo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-02T08:39:00",
+        "mensagem": "As notificações estão ativadas."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-02T09:03:00",
+        "mensagem": "Solicitamos a revisão do cadastro e das permissões do dispositivo."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-02T10:05:00",
+        "mensagem": "Consegui concluir o procedimento. Podem encerrar o chamado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-02T10:20:00",
+        "mensagem": "Chamado encerrado conforme sua confirmação. Obrigado pelo contato."
+      }
+    ]
+  },
+  {
+    "nome": "Maria Clara Fonseca",
+    "email": "maria_clara_fonseca056@example.com",
+    "data_abertura": "2026-08-15T15:16:00",
+    "status_chamado": "aberto",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-15T15:16:00",
+        "mensagem": "Preciso corrigir o endereço de entrega de um pedido."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-15T15:28:00",
+        "mensagem": "Vou verificar se a alteração ainda é possível. O pedido já foi enviado?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-15T15:50:00",
+        "mensagem": "Ainda consta como em preparação."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-15T16:14:00",
+        "mensagem": "Registramos a solicitação de alteração do endereço para validação."
+      }
+    ]
+  },
+  {
+    "nome": "Michele Paiva",
+    "email": "michele_paiva057@example.com",
+    "data_abertura": "2026-08-28T11:27:00",
+    "status_chamado": "em andamento",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-28T11:27:00",
+        "mensagem": "Meu cupom de desconto aparece como inválido no checkout."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-28T11:39:00",
+        "mensagem": "Pode informar se a oferta ainda está dentro da validade?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-28T12:01:00",
+        "mensagem": "Sim, a campanha termina amanhã."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-28T12:25:00",
+        "mensagem": "Solicitamos uma verificação das regras de elegibilidade do cupom."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-28T13:27:00",
+        "mensagem": "O chamado permanece em análise. Avisaremos assim que houver uma atualização."
+      }
+    ]
+  },
+  {
+    "nome": "Murilo Xavier",
+    "email": "murilo_xavier058@example.com",
+    "data_abertura": "2026-09-10T18:38:00",
+    "status_chamado": "aguardando cliente",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-10T18:38:00",
+        "mensagem": "A integração começou a retornar erro 401 nas requisições."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-10T18:50:00",
+        "mensagem": "Você verificou a validade do token de autenticação?"
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-10T19:38:00",
+        "mensagem": "Aguardamos seu retorno com as informações solicitadas para dar continuidade ao atendimento."
+      }
+    ]
+  },
+  {
+    "nome": "Nicolas Reis",
+    "email": "nicolas_reis059@example.com",
+    "data_abertura": "2026-09-23T14:49:00",
+    "status_chamado": "resolvido",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-23T14:49:00",
+        "mensagem": "As páginas estão demorando muito para carregar."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-23T15:01:00",
+        "mensagem": "Isso ocorre em todas as páginas ou em uma área específica?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-23T15:23:00",
+        "mensagem": "Principalmente no painel inicial."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-23T15:47:00",
+        "mensagem": "Registramos o comportamento para análise de desempenho."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-23T17:49:00",
+        "mensagem": "A solução foi aplicada e o chamado foi marcado como resolvido. Pode confirmar se está tudo certo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-23T18:49:00",
+        "mensagem": "Sim, agora está funcionando. Obrigado pelo atendimento!"
+      }
+    ]
+  },
+  {
+    "nome": "Olívia Brito",
+    "email": "olivia_brito060@example.com",
+    "data_abertura": "2026-10-06T10:00:00",
+    "status_chamado": "fechado",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-06T10:00:00",
+        "mensagem": "Não consigo remarcar um horário pelo portal."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-06T10:12:00",
+        "mensagem": "A opção de reagendamento aparece desabilitada?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-06T10:34:00",
+        "mensagem": "Sim, ela está cinza para o meu agendamento."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-06T10:58:00",
+        "mensagem": "Solicitamos a análise das regras de reagendamento para esse serviço."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-06T12:00:00",
+        "mensagem": "Consegui concluir o procedimento. Podem encerrar o chamado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-06T12:15:00",
+        "mensagem": "Chamado encerrado conforme sua confirmação. Obrigado pelo contato."
+      }
+    ]
+  },
+  {
+    "nome": "Paulo Henrique Barros",
+    "email": "paulo_henrique_barros061@example.com",
+    "data_abertura": "2026-10-19T17:11:00",
+    "status_chamado": "aberto",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-19T17:11:00",
+        "mensagem": "Não consigo entrar na minha conta; aparece uma mensagem de senha inválida."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-19T17:23:00",
+        "mensagem": "Vou verificar as opções de acesso. Você já tentou redefinir a senha?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-19T17:45:00",
+        "mensagem": "Tentei, mas ainda não recebi o e-mail de recuperação."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-19T18:09:00",
+        "mensagem": "Verificamos o envio e orientamos a conferir a pasta de spam e solicitar um novo link."
+      }
+    ]
+  },
+  {
+    "nome": "Priscila Viana",
+    "email": "priscila_viana062@example.com",
+    "data_abertura": "2026-11-01T13:22:00",
+    "status_chamado": "em andamento",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-11-01T13:22:00",
+        "mensagem": "Identifiquei duas cobranças referentes à mesma assinatura."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-11-01T13:34:00",
+        "mensagem": "Pode confirmar o mês em que as duas cobranças apareceram?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-11-01T13:56:00",
+        "mensagem": "As duas foram lançadas neste mês."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-11-01T14:20:00",
+        "mensagem": "Encaminhamos a duplicidade para análise do setor financeiro."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-11-01T15:22:00",
+        "mensagem": "O chamado permanece em análise. Avisaremos assim que houver uma atualização."
+      }
+    ]
+  },
+  {
+    "nome": "Raquel Amorim",
+    "email": "raquel_amorim063@example.com",
+    "data_abertura": "2026-07-03T09:33:00",
+    "status_chamado": "aguardando cliente",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-03T09:33:00",
+        "mensagem": "Meu pedido está atrasado e o rastreamento não é atualizado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-03T09:45:00",
+        "mensagem": "Vou consultar a transportadora. Você consegue confirmar o número do pedido?"
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-03T10:33:00",
+        "mensagem": "Aguardamos seu retorno com as informações solicitadas para dar continuidade ao atendimento."
+      }
+    ]
+  },
+  {
+    "nome": "Roberta Siqueira",
+    "email": "roberta_siqueira064@example.com",
+    "data_abertura": "2026-07-16T16:44:00",
+    "status_chamado": "resolvido",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-16T16:44:00",
+        "mensagem": "O aplicativo fecha sozinho quando tento abrir a área de pedidos."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-16T16:56:00",
+        "mensagem": "Qual versão do aplicativo e sistema operacional você utiliza?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-16T17:18:00",
+        "mensagem": "Estou usando a versão mais recente no Android."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-16T17:42:00",
+        "mensagem": "Registramos o erro e encaminhamos as informações para a equipe técnica."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-16T19:44:00",
+        "mensagem": "A solução foi aplicada e o chamado foi marcado como resolvido. Pode confirmar se está tudo certo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-16T20:44:00",
+        "mensagem": "Sim, agora está funcionando. Obrigado pelo atendimento!"
+      }
+    ]
+  },
+  {
+    "nome": "Rodrigo Guimarães",
+    "email": "rodrigo_guimaraes065@example.com",
+    "data_abertura": "2026-07-29T12:55:00",
+    "status_chamado": "fechado",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-29T12:55:00",
+        "mensagem": "Preciso atualizar o telefone vinculado ao meu cadastro."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-29T13:07:00",
+        "mensagem": "Podemos orientar a alteração pelo painel de perfil. Você consegue acessar a conta?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-29T13:29:00",
+        "mensagem": "Sim, consigo acessar normalmente."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-29T13:53:00",
+        "mensagem": "Enviamos o passo a passo de atualização cadastral."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-29T14:55:00",
+        "mensagem": "Consegui concluir o procedimento. Podem encerrar o chamado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-29T15:10:00",
+        "mensagem": "Chamado encerrado conforme sua confirmação. Obrigado pelo contato."
+      }
+    ]
+  },
+  {
+    "nome": "Sara Dantas",
+    "email": "sara_dantas066@example.com",
+    "data_abertura": "2026-08-11T08:06:00",
+    "status_chamado": "aberto",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-11T08:06:00",
+        "mensagem": "Gostaria de cancelar minha assinatura e entender a data final do acesso."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-11T08:18:00",
+        "mensagem": "Posso explicar o procedimento e confirmar o período vigente."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-11T08:40:00",
+        "mensagem": "Certo, quero evitar uma nova renovação."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-11T09:04:00",
+        "mensagem": "Orientamos o cancelamento antes da próxima renovação e o registro da confirmação."
+      }
+    ]
+  },
+  {
+    "nome": "Sérgio Albuquerque",
+    "email": "sergio_albuquerque067@example.com",
+    "data_abertura": "2026-08-24T15:17:00",
+    "status_chamado": "em andamento",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-24T15:17:00",
+        "mensagem": "Solicitei um reembolso, mas ainda não recebi uma atualização."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-24T15:29:00",
+        "mensagem": "Você pode informar quando fez a solicitação?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-24T15:51:00",
+        "mensagem": "Fiz a solicitação há alguns dias pelo portal."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-24T16:15:00",
+        "mensagem": "Localizamos o pedido e o encaminhamos para acompanhamento financeiro."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-24T17:17:00",
+        "mensagem": "O chamado permanece em análise. Avisaremos assim que houver uma atualização."
+      }
+    ]
+  },
+  {
+    "nome": "Sofia Andrade",
+    "email": "sofia_andrade068@example.com",
+    "data_abertura": "2026-09-06T11:28:00",
+    "status_chamado": "aguardando cliente",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-06T11:28:00",
+        "mensagem": "Não consigo concluir o pagamento com meu cartão."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-06T11:40:00",
+        "mensagem": "O sistema apresenta algum código ou mensagem de erro?"
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-06T12:28:00",
+        "mensagem": "Aguardamos seu retorno com as informações solicitadas para dar continuidade ao atendimento."
+      }
+    ]
+  },
+  {
+    "nome": "Talita Machado",
+    "email": "talita_machado069@example.com",
+    "data_abertura": "2026-09-19T18:39:00",
+    "status_chamado": "resolvido",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-19T18:39:00",
+        "mensagem": "Preciso da nota fiscal de uma compra recente."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-19T18:51:00",
+        "mensagem": "Você consegue localizar o pedido na área de compras?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-19T19:13:00",
+        "mensagem": "Consigo, mas não encontro a opção de baixar a nota."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-19T19:37:00",
+        "mensagem": "Orientamos onde consultar a documentação e solicitamos a segunda via."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-19T21:39:00",
+        "mensagem": "A solução foi aplicada e o chamado foi marcado como resolvido. Pode confirmar se está tudo certo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-19T22:39:00",
+        "mensagem": "Sim, agora está funcionando. Obrigado pelo atendimento!"
+      }
+    ]
+  },
+  {
+    "nome": "Túlio Falcão",
+    "email": "tulio_falcao070@example.com",
+    "data_abertura": "2026-10-02T14:50:00",
+    "status_chamado": "fechado",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-02T14:50:00",
+        "mensagem": "O produto recebido está apresentando falhas no funcionamento."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-02T15:02:00",
+        "mensagem": "Pode descrever o defeito e informar quando começou?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-02T15:24:00",
+        "mensagem": "A falha apareceu no primeiro dia de uso."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-02T15:48:00",
+        "mensagem": "Abrimos a análise de garantia e informamos as próximas etapas."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-02T16:50:00",
+        "mensagem": "Consegui concluir o procedimento. Podem encerrar o chamado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-02T17:05:00",
+        "mensagem": "Chamado encerrado conforme sua confirmação. Obrigado pelo contato."
+      }
+    ]
+  },
+  {
+    "nome": "Valéria Nunes",
+    "email": "valeria_nunes071@example.com",
+    "data_abertura": "2026-10-15T10:01:00",
+    "status_chamado": "aberto",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-15T10:01:00",
+        "mensagem": "Recebi um tamanho diferente do que selecionei."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-15T10:13:00",
+        "mensagem": "Vamos conferir a solicitação de troca. A embalagem ainda está disponível?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-15T10:35:00",
+        "mensagem": "Sim, guardei a embalagem e a etiqueta."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-15T10:59:00",
+        "mensagem": "Enviamos as instruções para iniciar a troca."
+      }
+    ]
+  },
+  {
+    "nome": "William Pacheco",
+    "email": "william_pacheco072@example.com",
+    "data_abertura": "2026-10-28T17:12:00",
+    "status_chamado": "em andamento",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-28T17:12:00",
+        "mensagem": "Não consigo utilizar a plataforma desde esta manhã."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-28T17:24:00",
+        "mensagem": "Estamos verificando se há alguma instabilidade. O problema ocorre em mais de um dispositivo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-28T17:46:00",
+        "mensagem": "Sim, tentei no computador e no celular."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-28T18:10:00",
+        "mensagem": "A ocorrência foi encaminhada para investigação de disponibilidade."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-28T19:12:00",
+        "mensagem": "O chamado permanece em análise. Avisaremos assim que houver uma atualização."
+      }
+    ]
+  },
+  {
+    "nome": "Yasmin Monteiro",
+    "email": "yasmin_monteiro073@example.com",
+    "data_abertura": "2026-11-10T13:23:00",
+    "status_chamado": "aguardando cliente",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-11-10T13:23:00",
+        "mensagem": "Meu colega não consegue visualizar os relatórios da equipe."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-11-10T13:35:00",
+        "mensagem": "Você sabe qual perfil de acesso está atribuído a ele?"
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-11-10T14:23:00",
+        "mensagem": "Aguardamos seu retorno com as informações solicitadas para dar continuidade ao atendimento."
+      }
+    ]
+  },
+  {
+    "nome": "Adriana Fontes",
+    "email": "adriana_fontes074@example.com",
+    "data_abertura": "2026-07-12T09:34:00",
+    "status_chamado": "resolvido",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-12T09:34:00",
+        "mensagem": "A exportação do relatório em CSV não está funcionando."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-12T09:46:00",
+        "mensagem": "O erro ocorre em todos os relatórios ou em um específico?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-12T10:08:00",
+        "mensagem": "Acontece apenas no relatório mensal."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-12T10:32:00",
+        "mensagem": "Registramos o cenário e abrimos uma verificação da exportação."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-12T12:34:00",
+        "mensagem": "A solução foi aplicada e o chamado foi marcado como resolvido. Pode confirmar se está tudo certo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-12T13:34:00",
+        "mensagem": "Sim, agora está funcionando. Obrigado pelo atendimento!"
+      }
+    ]
+  },
+  {
+    "nome": "Alexandre Melo",
+    "email": "alexandre_melo075@example.com",
+    "data_abertura": "2026-07-25T16:45:00",
+    "status_chamado": "fechado",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-25T16:45:00",
+        "mensagem": "Não estou recebendo notificações sobre atualizações dos meus pedidos."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-25T16:57:00",
+        "mensagem": "Você já conferiu as preferências de notificação no aplicativo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-25T17:19:00",
+        "mensagem": "As notificações estão ativadas."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-25T17:43:00",
+        "mensagem": "Solicitamos a revisão do cadastro e das permissões do dispositivo."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-25T18:45:00",
+        "mensagem": "Consegui concluir o procedimento. Podem encerrar o chamado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-25T19:00:00",
+        "mensagem": "Chamado encerrado conforme sua confirmação. Obrigado pelo contato."
+      }
+    ]
+  },
+  {
+    "nome": "Amanda Nóbrega",
+    "email": "amanda_nobrega076@example.com",
+    "data_abertura": "2026-08-07T12:56:00",
+    "status_chamado": "aberto",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-07T12:56:00",
+        "mensagem": "Preciso corrigir o endereço de entrega de um pedido."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-07T13:08:00",
+        "mensagem": "Vou verificar se a alteração ainda é possível. O pedido já foi enviado?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-07T13:30:00",
+        "mensagem": "Ainda consta como em preparação."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-07T13:54:00",
+        "mensagem": "Registramos a solicitação de alteração do endereço para validação."
+      }
+    ]
+  },
+  {
+    "nome": "Arthur Antunes",
+    "email": "arthur_antunes077@example.com",
+    "data_abertura": "2026-08-20T08:07:00",
+    "status_chamado": "em andamento",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-20T08:07:00",
+        "mensagem": "Meu cupom de desconto aparece como inválido no checkout."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-20T08:19:00",
+        "mensagem": "Pode informar se a oferta ainda está dentro da validade?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-20T08:41:00",
+        "mensagem": "Sim, a campanha termina amanhã."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-20T09:05:00",
+        "mensagem": "Solicitamos uma verificação das regras de elegibilidade do cupom."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-20T10:07:00",
+        "mensagem": "O chamado permanece em análise. Avisaremos assim que houver uma atualização."
+      }
+    ]
+  },
+  {
+    "nome": "Bianca Neri",
+    "email": "bianca_neri078@example.com",
+    "data_abertura": "2026-09-02T15:18:00",
+    "status_chamado": "aguardando cliente",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-02T15:18:00",
+        "mensagem": "A integração começou a retornar erro 401 nas requisições."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-02T15:30:00",
+        "mensagem": "Você verificou a validade do token de autenticação?"
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-02T16:18:00",
+        "mensagem": "Aguardamos seu retorno com as informações solicitadas para dar continuidade ao atendimento."
+      }
+    ]
+  },
+  {
+    "nome": "Cecília Barreto",
+    "email": "cecilia_barreto079@example.com",
+    "data_abertura": "2026-09-15T11:29:00",
+    "status_chamado": "resolvido",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-15T11:29:00",
+        "mensagem": "As páginas estão demorando muito para carregar."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-15T11:41:00",
+        "mensagem": "Isso ocorre em todas as páginas ou em uma área específica?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-15T12:03:00",
+        "mensagem": "Principalmente no painel inicial."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-15T12:27:00",
+        "mensagem": "Registramos o comportamento para análise de desempenho."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-15T14:29:00",
+        "mensagem": "A solução foi aplicada e o chamado foi marcado como resolvido. Pode confirmar se está tudo certo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-15T15:29:00",
+        "mensagem": "Sim, agora está funcionando. Obrigado pelo atendimento!"
+      }
+    ]
+  },
+  {
+    "nome": "Cláudio Goulart",
+    "email": "claudio_goulart080@example.com",
+    "data_abertura": "2026-09-28T18:40:00",
+    "status_chamado": "fechado",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-28T18:40:00",
+        "mensagem": "Não consigo remarcar um horário pelo portal."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-28T18:52:00",
+        "mensagem": "A opção de reagendamento aparece desabilitada?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-28T19:14:00",
+        "mensagem": "Sim, ela está cinza para o meu agendamento."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-28T19:38:00",
+        "mensagem": "Solicitamos a análise das regras de reagendamento para esse serviço."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-28T20:40:00",
+        "mensagem": "Consegui concluir o procedimento. Podem encerrar o chamado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-28T20:55:00",
+        "mensagem": "Chamado encerrado conforme sua confirmação. Obrigado pelo contato."
+      }
+    ]
+  },
+  {
+    "nome": "Cristiane Leal",
+    "email": "cristiane_leal081@example.com",
+    "data_abertura": "2026-10-11T14:51:00",
+    "status_chamado": "aberto",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-11T14:51:00",
+        "mensagem": "Não consigo entrar na minha conta; aparece uma mensagem de senha inválida."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-11T15:03:00",
+        "mensagem": "Vou verificar as opções de acesso. Você já tentou redefinir a senha?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-11T15:25:00",
+        "mensagem": "Tentei, mas ainda não recebi o e-mail de recuperação."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-11T15:49:00",
+        "mensagem": "Verificamos o envio e orientamos a conferir a pasta de spam e solicitar um novo link."
+      }
+    ]
+  },
+  {
+    "nome": "Davi Afonso",
+    "email": "davi_afonso082@example.com",
+    "data_abertura": "2026-10-24T10:02:00",
+    "status_chamado": "em andamento",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-24T10:02:00",
+        "mensagem": "Identifiquei duas cobranças referentes à mesma assinatura."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-24T10:14:00",
+        "mensagem": "Pode confirmar o mês em que as duas cobranças apareceram?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-24T10:36:00",
+        "mensagem": "As duas foram lançadas neste mês."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-24T11:00:00",
+        "mensagem": "Encaminhamos a duplicidade para análise do setor financeiro."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-24T12:02:00",
+        "mensagem": "O chamado permanece em análise. Avisaremos assim que houver uma atualização."
+      }
+    ]
+  },
+  {
+    "nome": "Denise Bastos",
+    "email": "denise_bastos083@example.com",
+    "data_abertura": "2026-11-06T17:13:00",
+    "status_chamado": "aguardando cliente",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-11-06T17:13:00",
+        "mensagem": "Meu pedido está atrasado e o rastreamento não é atualizado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-11-06T17:25:00",
+        "mensagem": "Vou consultar a transportadora. Você consegue confirmar o número do pedido?"
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-11-06T18:13:00",
+        "mensagem": "Aguardamos seu retorno com as informações solicitadas para dar continuidade ao atendimento."
+      }
+    ]
+  },
+  {
+    "nome": "Douglas Aguiar",
+    "email": "douglas_aguiar084@example.com",
+    "data_abertura": "2026-07-08T13:24:00",
+    "status_chamado": "resolvido",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-08T13:24:00",
+        "mensagem": "O aplicativo fecha sozinho quando tento abrir a área de pedidos."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-08T13:36:00",
+        "mensagem": "Qual versão do aplicativo e sistema operacional você utiliza?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-08T13:58:00",
+        "mensagem": "Estou usando a versão mais recente no Android."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-08T14:22:00",
+        "mensagem": "Registramos o erro e encaminhamos as informações para a equipe técnica."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-08T16:24:00",
+        "mensagem": "A solução foi aplicada e o chamado foi marcado como resolvido. Pode confirmar se está tudo certo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-08T17:24:00",
+        "mensagem": "Sim, agora está funcionando. Obrigado pelo atendimento!"
+      }
+    ]
+  },
+  {
+    "nome": "Erika Moraes",
+    "email": "erika_moraes085@example.com",
+    "data_abertura": "2026-07-21T09:35:00",
+    "status_chamado": "fechado",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-21T09:35:00",
+        "mensagem": "Preciso atualizar o telefone vinculado ao meu cadastro."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-21T09:47:00",
+        "mensagem": "Podemos orientar a alteração pelo painel de perfil. Você consegue acessar a conta?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-21T10:09:00",
+        "mensagem": "Sim, consigo acessar normalmente."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-21T10:33:00",
+        "mensagem": "Enviamos o passo a passo de atualização cadastral."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-21T11:35:00",
+        "mensagem": "Consegui concluir o procedimento. Podem encerrar o chamado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-21T11:50:00",
+        "mensagem": "Chamado encerrado conforme sua confirmação. Obrigado pelo contato."
+      }
+    ]
+  },
+  {
+    "nome": "Fábio Lacerda",
+    "email": "fabio_lacerda086@example.com",
+    "data_abertura": "2026-08-03T16:46:00",
+    "status_chamado": "aberto",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-03T16:46:00",
+        "mensagem": "Gostaria de cancelar minha assinatura e entender a data final do acesso."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-03T16:58:00",
+        "mensagem": "Posso explicar o procedimento e confirmar o período vigente."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-03T17:20:00",
+        "mensagem": "Certo, quero evitar uma nova renovação."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-03T17:44:00",
+        "mensagem": "Orientamos o cancelamento antes da próxima renovação e o registro da confirmação."
+      }
+    ]
+  },
+  {
+    "nome": "Giovana Ribeiro",
+    "email": "giovana_ribeiro087@example.com",
+    "data_abertura": "2026-08-16T12:57:00",
+    "status_chamado": "em andamento",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-16T12:57:00",
+        "mensagem": "Solicitei um reembolso, mas ainda não recebi uma atualização."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-16T13:09:00",
+        "mensagem": "Você pode informar quando fez a solicitação?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-16T13:31:00",
+        "mensagem": "Fiz a solicitação há alguns dias pelo portal."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-16T13:55:00",
+        "mensagem": "Localizamos o pedido e o encaminhamos para acompanhamento financeiro."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-16T14:57:00",
+        "mensagem": "O chamado permanece em análise. Avisaremos assim que houver uma atualização."
+      }
+    ]
+  },
+  {
+    "nome": "Heloísa Braga",
+    "email": "heloisa_braga088@example.com",
+    "data_abertura": "2026-08-29T08:08:00",
+    "status_chamado": "aguardando cliente",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-29T08:08:00",
+        "mensagem": "Não consigo concluir o pagamento com meu cartão."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-29T08:20:00",
+        "mensagem": "O sistema apresenta algum código ou mensagem de erro?"
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-29T09:08:00",
+        "mensagem": "Aguardamos seu retorno com as informações solicitadas para dar continuidade ao atendimento."
+      }
+    ]
+  },
+  {
+    "nome": "Iara Furtado",
+    "email": "iara_furtado089@example.com",
+    "data_abertura": "2026-09-11T15:19:00",
+    "status_chamado": "resolvido",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-11T15:19:00",
+        "mensagem": "Preciso da nota fiscal de uma compra recente."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-11T15:31:00",
+        "mensagem": "Você consegue localizar o pedido na área de compras?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-11T15:53:00",
+        "mensagem": "Consigo, mas não encontro a opção de baixar a nota."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-11T16:17:00",
+        "mensagem": "Orientamos onde consultar a documentação e solicitamos a segunda via."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-11T18:19:00",
+        "mensagem": "A solução foi aplicada e o chamado foi marcado como resolvido. Pode confirmar se está tudo certo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-11T19:19:00",
+        "mensagem": "Sim, agora está funcionando. Obrigado pelo atendimento!"
+      }
+    ]
+  },
+  {
+    "nome": "Jorge Santana",
+    "email": "jorge_santana090@example.com",
+    "data_abertura": "2026-09-24T11:30:00",
+    "status_chamado": "fechado",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-24T11:30:00",
+        "mensagem": "O produto recebido está apresentando falhas no funcionamento."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-24T11:42:00",
+        "mensagem": "Pode descrever o defeito e informar quando começou?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-24T12:04:00",
+        "mensagem": "A falha apareceu no primeiro dia de uso."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-24T12:28:00",
+        "mensagem": "Abrimos a análise de garantia e informamos as próximas etapas."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-24T13:30:00",
+        "mensagem": "Consegui concluir o procedimento. Podem encerrar o chamado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-24T13:45:00",
+        "mensagem": "Chamado encerrado conforme sua confirmação. Obrigado pelo contato."
+      }
+    ]
+  },
+  {
+    "nome": "Karen Diniz",
+    "email": "karen_diniz091@example.com",
+    "data_abertura": "2026-10-07T18:41:00",
+    "status_chamado": "aberto",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-07T18:41:00",
+        "mensagem": "Recebi um tamanho diferente do que selecionei."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-07T18:53:00",
+        "mensagem": "Vamos conferir a solicitação de troca. A embalagem ainda está disponível?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-07T19:15:00",
+        "mensagem": "Sim, guardei a embalagem e a etiqueta."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-07T19:39:00",
+        "mensagem": "Enviamos as instruções para iniciar a troca."
+      }
+    ]
+  },
+  {
+    "nome": "Leandro Maia",
+    "email": "leandro_maia092@example.com",
+    "data_abertura": "2026-10-20T14:52:00",
+    "status_chamado": "em andamento",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-20T14:52:00",
+        "mensagem": "Não consigo utilizar a plataforma desde esta manhã."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-20T15:04:00",
+        "mensagem": "Estamos verificando se há alguma instabilidade. O problema ocorre em mais de um dispositivo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-10-20T15:26:00",
+        "mensagem": "Sim, tentei no computador e no celular."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-20T15:50:00",
+        "mensagem": "A ocorrência foi encaminhada para investigação de disponibilidade."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-10-20T16:52:00",
+        "mensagem": "O chamado permanece em análise. Avisaremos assim que houver uma atualização."
+      }
+    ]
+  },
+  {
+    "nome": "Lorena Sales",
+    "email": "lorena_sales093@example.com",
+    "data_abertura": "2026-11-02T10:03:00",
+    "status_chamado": "aguardando cliente",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-11-02T10:03:00",
+        "mensagem": "Meu colega não consegue visualizar os relatórios da equipe."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-11-02T10:15:00",
+        "mensagem": "Você sabe qual perfil de acesso está atribuído a ele?"
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-11-02T11:03:00",
+        "mensagem": "Aguardamos seu retorno com as informações solicitadas para dar continuidade ao atendimento."
+      }
+    ]
+  },
+  {
+    "nome": "Maurício Matias",
+    "email": "mauricio_matias094@example.com",
+    "data_abertura": "2026-07-04T17:14:00",
+    "status_chamado": "resolvido",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-04T17:14:00",
+        "mensagem": "A exportação do relatório em CSV não está funcionando."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-04T17:26:00",
+        "mensagem": "O erro ocorre em todos os relatórios ou em um específico?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-04T17:48:00",
+        "mensagem": "Acontece apenas no relatório mensal."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-04T18:12:00",
+        "mensagem": "Registramos o cenário e abrimos uma verificação da exportação."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-04T20:14:00",
+        "mensagem": "A solução foi aplicada e o chamado foi marcado como resolvido. Pode confirmar se está tudo certo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-04T21:14:00",
+        "mensagem": "Sim, agora está funcionando. Obrigado pelo atendimento!"
+      }
+    ]
+  },
+  {
+    "nome": "Milena Queiroz",
+    "email": "milena_queiroz095@example.com",
+    "data_abertura": "2026-07-17T13:25:00",
+    "status_chamado": "fechado",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-17T13:25:00",
+        "mensagem": "Não estou recebendo notificações sobre atualizações dos meus pedidos."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-17T13:37:00",
+        "mensagem": "Você já conferiu as preferências de notificação no aplicativo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-17T13:59:00",
+        "mensagem": "As notificações estão ativadas."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-17T14:23:00",
+        "mensagem": "Solicitamos a revisão do cadastro e das permissões do dispositivo."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-17T15:25:00",
+        "mensagem": "Consegui concluir o procedimento. Podem encerrar o chamado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-17T15:40:00",
+        "mensagem": "Chamado encerrado conforme sua confirmação. Obrigado pelo contato."
+      }
+    ]
+  },
+  {
+    "nome": "Pedro Augusto Vieira",
+    "email": "pedro_augusto_vieira096@example.com",
+    "data_abertura": "2026-07-30T09:36:00",
+    "status_chamado": "aberto",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-30T09:36:00",
+        "mensagem": "Preciso corrigir o endereço de entrega de um pedido."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-30T09:48:00",
+        "mensagem": "Vou verificar se a alteração ainda é possível. O pedido já foi enviado?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-07-30T10:10:00",
+        "mensagem": "Ainda consta como em preparação."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-07-30T10:34:00",
+        "mensagem": "Registramos a solicitação de alteração do endereço para validação."
+      }
+    ]
+  },
+  {
+    "nome": "Rafaela Cabral",
+    "email": "rafaela_cabral097@example.com",
+    "data_abertura": "2026-08-12T16:47:00",
+    "status_chamado": "em andamento",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-12T16:47:00",
+        "mensagem": "Meu cupom de desconto aparece como inválido no checkout."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-12T16:59:00",
+        "mensagem": "Pode informar se a oferta ainda está dentro da validade?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-12T17:21:00",
+        "mensagem": "Sim, a campanha termina amanhã."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-12T17:45:00",
+        "mensagem": "Solicitamos uma verificação das regras de elegibilidade do cupom."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-12T18:47:00",
+        "mensagem": "O chamado permanece em análise. Avisaremos assim que houver uma atualização."
+      }
+    ]
+  },
+  {
+    "nome": "Simone Porto",
+    "email": "simone_porto098@example.com",
+    "data_abertura": "2026-08-25T12:58:00",
+    "status_chamado": "aguardando cliente",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-08-25T12:58:00",
+        "mensagem": "A integração começou a retornar erro 401 nas requisições."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-25T13:10:00",
+        "mensagem": "Você verificou a validade do token de autenticação?"
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-08-25T13:58:00",
+        "mensagem": "Aguardamos seu retorno com as informações solicitadas para dar continuidade ao atendimento."
+      }
+    ]
+  },
+  {
+    "nome": "Tainá Vasconcelos",
+    "email": "taina_vasconcelos099@example.com",
+    "data_abertura": "2026-09-07T08:09:00",
+    "status_chamado": "resolvido",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-07T08:09:00",
+        "mensagem": "As páginas estão demorando muito para carregar."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-07T08:21:00",
+        "mensagem": "Isso ocorre em todas as páginas ou em uma área específica?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-07T08:43:00",
+        "mensagem": "Principalmente no painel inicial."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-07T09:07:00",
+        "mensagem": "Registramos o comportamento para análise de desempenho."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-07T11:09:00",
+        "mensagem": "A solução foi aplicada e o chamado foi marcado como resolvido. Pode confirmar se está tudo certo?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-07T12:09:00",
+        "mensagem": "Sim, agora está funcionando. Obrigado pelo atendimento!"
+      }
+    ]
+  },
+  {
+    "nome": "Vitor Hugo Lima",
+    "email": "vitor_hugo_lima100@example.com",
+    "data_abertura": "2026-09-20T15:20:00",
+    "status_chamado": "fechado",
+    "conversa": [
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-20T15:20:00",
+        "mensagem": "Não consigo remarcar um horário pelo portal."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-20T15:32:00",
+        "mensagem": "A opção de reagendamento aparece desabilitada?"
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-20T15:54:00",
+        "mensagem": "Sim, ela está cinza para o meu agendamento."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-20T16:18:00",
+        "mensagem": "Solicitamos a análise das regras de reagendamento para esse serviço."
+      },
+      {
+        "autor": "cliente",
+        "data_hora": "2026-09-20T17:20:00",
+        "mensagem": "Consegui concluir o procedimento. Podem encerrar o chamado."
+      },
+      {
+        "autor": "suporte",
+        "data_hora": "2026-09-20T17:35:00",
+        "mensagem": "Chamado encerrado conforme sua confirmação. Obrigado pelo contato."
+      }
+    ]
+  }
+]
